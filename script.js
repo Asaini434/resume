@@ -16,7 +16,7 @@ const education = [
             "Computer engineering: Principles of Electrical Engineering I and II (with labs), Digital Logic Design, Computer Architecture and Assembly Language, Digital Systems Design, Electronic Devices, Linear Systems and Signals, Computing Principles for Mobile Embedded Systems",
             "Mathematics: Calculus I and II, Multivariable Calculus, Differential Equations, Introductory Linear Algebra, Linear Optimization",
             "Capstone: ECE Capstone Design (ROSWELL clinical decision support app)",
-            "Dean's List (multiple semesters)"
+            "Dean's List: Spring 2023, Fall 2023, Spring 2024, Fall 2024, Fall 2025, Spring 2026"
         ]
     }
 ];
